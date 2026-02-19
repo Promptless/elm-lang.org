@@ -33,6 +33,7 @@ additionalResources = """
 
 ### Additional Resources
 
+* [Elm 1.0](/docs/elm-1.0)
 * [Install](https://guide.elm-lang.org/install/elm.html)
 * [FAQ](http://elm-community.github.io/elm-faq/)
 * [Syntax](/docs/syntax)
